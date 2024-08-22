@@ -8,7 +8,7 @@
 //define the main() function/method
 int main() 
 {
-    //use the std output for the console and print the hello world! string and create a new line using endl;
+    //use the std output for the console and print the Hello world! string and create a new line using endl;
     std::cout<<"hello world!"<<std::endl; 
 
 }
